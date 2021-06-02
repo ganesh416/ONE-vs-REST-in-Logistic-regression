@@ -29,7 +29,9 @@ logistic regression work on binary calssification problem and also it work on mu
   then in which model M3  probility is high then given new dat set belongs to Category 3
   
   
-  ![Uploading image.png…]()
+  ![Uploading image.png…](C:\Users\HP\Downloads\sample-data.csv)
+  
+
 
 
   
